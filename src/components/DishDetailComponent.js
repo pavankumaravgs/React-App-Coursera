@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card,CardBody,CardImg,CardImgOverlay,CardTitle,CardText} from 'reactstrap';
+import { Card,CardBody,CardImg,CardTitle,CardText} from 'reactstrap';
 
 function RenderComment({comment}) {
     if (comment != null){
